@@ -1,0 +1,13 @@
+{
+  "name": "convert",
+  "description": "used to convert JSON into CSV",
+  "version": "1.0.0",
+  "main": "convert.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./convert.js"
+  },
+  "dependencies": {
+    "convert-csv-to-json": "^1.4.0"
+  }
+}
